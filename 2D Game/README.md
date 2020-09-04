@@ -1,2 +1,4 @@
-# CS583_F2019_Yoo_Hosun_Proj_04
+# 2D Game playable as a bacteria cell, attempting to dodge anitbody cells and reach a goal.
+# Any collisions with enemy sprites will result in a level reset. 
+# Under 2DGame/Assets/Scripts player scripts, enemy scripts, and Game Manager Scripts can be found. 
 
